@@ -5,17 +5,21 @@ const Skills = () => {
   const [mernSc, setMernSc] = useState(0);
   const [reactSc, setReacSc] = useState(0);
   const [backendSc, setBackendSc] = useState(0);
+  const [restapiSc, setRestapiSc] = useState(0);
 
   useEffect(() => {
     const timer = setInterval(() => {
-      if (mernSc < 98) {
+      if (mernSc < 100) {
         setMernSc((prevCount) => prevCount + 1);
+      }
+      if (backendSc < 100) {
+        setBackendSc((prevCount) => prevCount + 1);
       }
       if (reactSc < 88) {
         setReacSc((prevCount) => prevCount + 1);
       }
-      if (backendSc < 88) {
-        setBackendSc((prevCount) => prevCount + 1);
+      if (restapiSc < 100) {
+        setRestapiSc((prevCount) => prevCount + 1);
       }
     }, 30);
 
@@ -28,10 +32,10 @@ const Skills = () => {
       <div className='flex flex-col gap-y-4'>
         <span className='text-Snow text-xs font-bold bg-gradient-to-bl'>Experties and Competencies</span>
         <div className='flex flex-col space-y-2'>
-          <LinearBar title={'NextJs'} percent={`${mernSc}%`} bgColor='bg-Green' />;
-          <LinearBar title={'MERN Stack'} percent={`${mernSc}%`} bgColor='bg-Green' />;
-          <LinearBar title={'ReactJs'} percent={`${reactSc}%`} bgColor='bg-Green' />;
+          <LinearBar title={'MERN Stack Development'} percent={`${mernSc}%`} bgColor='bg-Green' />;
           <LinearBar title={'Backend Development'} percent={`${backendSc}%`} bgColor='bg-Green' />;
+          <LinearBar title={'Frontend Devdlopment'} percent={`${reactSc}%`} bgColor='bg-Green' />;
+          <LinearBar title={`Rest API's`} percent={`${restapiSc}%`} bgColor='bg-Green' />;
         </div>
       </div>
     </div>

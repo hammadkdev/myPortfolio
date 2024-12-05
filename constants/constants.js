@@ -1,10 +1,10 @@
 export const NAME = 'Hammad Khan';
 
-export const DESIGNATION = `Full Stack Developer | MERN Stack Developer | NextJs Developer | Software Engineer`;
+export const DESIGNATION = `Full Stack Developer | NextJs / MERN Stack Developer | Software Engineer`;
 
 export const DETAILS = {
   Lives_in: 'Islamabad, Pakistan',
-  From: 'Swabi, KPK, Pakistan'
+  From: 'Swabi, Kpk, Pakistan'
 };
 
 export const TECH_STACK = [

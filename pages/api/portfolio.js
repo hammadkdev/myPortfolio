@@ -1,184 +1,52 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM ERP",
-        url: "https://jmmerp.com/",
-        image: "projects/erp.png",
-        projectDetail: "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "GraphQL"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "ABSCO",
-        url: "https://absco.sa/",
-        image: "projects/absco.png",
-        projectDetail: "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "JMM Technologies",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "ALSN",
-        url: "https://alsn.app/",
-        image: "projects/alsn.png",
-        projectDetail: "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "FirmSanad",
-        url: "/domain-expired",
-        image: "projects/firmsanad.png",
-        projectDetail: "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Fateh Al Mustaqbil",
-        url: "https://fatehtour.com/",
-        image: "projects/fateh.png",
-        projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Tojjar",
-        url: "/domain-expired",
-        image: "projects/tojjar.png",
-        projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
-        technologiesUsed: [
-            {
-                tech: "Nextjs with SSR"
-            },
-            {
-                tech: "Laravel"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 1,
-        projectName: "Otawix",
-        url: "https://b2c.otawix.com/",
-        image: "projects/otawix.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        projectName: "E-Commerce",
+        url: "https://github.com/ihammadkp/E-Commerce/",
+        image: "projects/ecommerce.png",
+        projectDetail: "An E-Commerce App Built in Nextjs in which user can add, delete and update their products and buy other products.",
         technologiesUsed: [
             {
                 tech: "NextJS"
             },
             {
-                tech: "NodeJS"
+                tech: "ReactJS"
             },
             {
                 tech: "REST API's"
             },
             {
-                tech: "MUI"
+                tech: "Mongodb"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+            {
+                tech: "Formik and Yup"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Attendance Management System",
+        url: "https://github.com/ihammadkp/attendanceManagementSystem/",
+        image: "projects/attendanceManagementSystem.png",
+        projectDetail: "Attendance Management System is a MERN Stack app with tailored interfaces for admins, teachers, and students to manage attendance records.",
+        technologiesUsed: [
+            {
+                tech: "NodeJS"
+            },
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "ExpressJS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "Mongodb"
             },
             {
                 tech: "TailwindCSS"
@@ -186,50 +54,69 @@ const portfolio = [
         ]
     },
     {
-        id: 2,
-        projectName: "Spatay",
-        url: "https://spatay.com/",
-        image: "projects/spatay.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        id: 0,
+        projectName: "Galaxy",
+        url: "https://github.com/ihammadkp/Galaxy/",
+        image: "projects/galaxy.png",
+        projectDetail: "Galaxy is a Dynamic Blog Website in which admin can add update and delate post built in MERN Stack.",
         technologiesUsed: [
+            {
+                tech: "NodeJS"
+            },
             {
                 tech: "ReactJS"
             },
             {
-                tech: "NodeJS"
+                tech: "Express"
             },
             {
                 tech: "REST API's"
             },
             {
-                tech: "Ant Design"
+                tech: "Mongodb"
             },
             {
                 tech: "TailwindCSS"
             },
         ]
     },
-    // {
-    //     id: 2,
-    //     projectName: "Culyte",
-    //     url: "https://culyte.com",
-    //     image: "projects/culyte.png",
-    //     projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "ReactJS"
-    //         },
-    //         {
-    //             tech: "NodeJS"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+    {
+        id: 0,
+        projectName: "Hepta",
+        url: "https://github.com/ihammadkp/Hepta/",
+        image: "projects/hepta.png",
+        projectDetail: "Hepta drives digital transformation of Hotal Management System built with Reactjs and Tailwind css.",
+        technologiesUsed: [
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Ableton",
+        url: "https://github.com/ihammadkp/Ableton/",
+        image: "projects/ableton.png",
+        projectDetail: "Ableton is a Musical Instrumental Plateform that buy and sell musical instruments built in Reactjs and css.",
+        technologiesUsed: [
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "Core CSS"
+            },
+        ]
+    },
+    
 ]
 export default function handler(req, res) {
     res.status(200).json(portfolio)

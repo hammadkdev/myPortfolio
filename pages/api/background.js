@@ -39,7 +39,7 @@ const background = [
                 role: 'Software Engineer',
                 url: 'https://www.pixako.com/',
                 desc: 'As a Software Engineer, I am working on MERN Stack, Nextjs and JavaScript to build Complete Full Stack Applications.',
-                year: '09/2024 - Present',
+                year: '07/2024 - Present',
                 location: 'Islamabad, Pakistan'
             },
             {
@@ -48,18 +48,9 @@ const background = [
                 role: 'MERN Stack Internee',
                 url: 'https://ezitech.org/',
                 desc: 'As an Internee, I learned how to build Full Stack  interactive websites using MERN Stack (Mongodb, ExpressJs, ReactJs, NodeJs).',
-                year: '02/2024 - 09/2024',
+                year: '02/2024 - 07/2024',
                 location: 'Rawalpindi, Pakistan'
             },
-            // {
-            //     id: 3,
-            //     title: 'Encoder Bytes',
-            //     role: 'PHP Developer',
-            //     url: 'https://www.encoderbytes.com/',
-            //     desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-            //     year: '09/2020 - 02/2021',
-            //     location: 'Peshawar, Pakistan'
-            // },
 
         ]
     }

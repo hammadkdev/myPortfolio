@@ -13,7 +13,7 @@ const Footer = () => {
                     <span>2023 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
-                    <a href='https://www.fiverr.com/' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Hammad K</span></a>
+                    <a href='https://www.fiverr.com/hammad_dev01/' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Hammad K</span></a>
                 </div>
                 <div className="hidden md:flex items-center">
                     <div className="mr-1 text-base">

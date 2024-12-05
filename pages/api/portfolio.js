@@ -57,7 +57,7 @@ const portfolio = [
         id: 0,
         projectName: "Galaxy",
         url: "https://github.com/ihammadkp/Galaxy/",
-        image: "projects/galaxy.png",
+        image: "projects/galaxy.PNG",
         projectDetail: "Galaxy is a Dynamic Blog Website in which admin can add update and delate post built in MERN Stack.",
         technologiesUsed: [
             {
@@ -84,7 +84,7 @@ const portfolio = [
         id: 0,
         projectName: "Hepta",
         url: "https://github.com/ihammadkp/Hepta/",
-        image: "projects/hepta.png",
+        image: "projects/hepta.PNG",
         projectDetail: "Hepta drives digital transformation of Hotal Management System built with Reactjs and Tailwind css.",
         technologiesUsed: [
             {
@@ -102,7 +102,7 @@ const portfolio = [
         id: 0,
         projectName: "Ableton",
         url: "https://github.com/ihammadkp/Ableton/",
-        image: "projects/ableton.png",
+        image: "projects/ableton.PNG",
         projectDetail: "Ableton is a Musical Instrumental Plateform that buy and sell musical instruments built in Reactjs and css.",
         technologiesUsed: [
             {

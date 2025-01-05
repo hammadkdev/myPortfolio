@@ -36,7 +36,7 @@ const background = [
             {
                 id: 1,
                 title: 'Pixako Technologies',
-                role: 'Software Engineer',
+                role: ' Associate Software Engineer',
                 url: 'https://www.pixako.com/',
                 desc: 'As a Software Engineer, I am working on MERN Stack, Nextjs and JavaScript to build Complete Full Stack Applications.',
                 year: '07/2024 - Present',
@@ -45,7 +45,7 @@ const background = [
             {
                 id: 2,
                 title: 'Ezitech Institute',
-                role: 'MERN Stack Internee',
+                role: 'MERN Stack Intern',
                 url: 'https://ezitech.org/',
                 desc: 'As an Internee, I learned how to build Full Stack  interactive websites using MERN Stack (Mongodb, ExpressJs, ReactJs, NodeJs).',
                 year: '02/2024 - 07/2024',

@@ -1,6 +1,6 @@
 export const NAME = 'Hammad Khan';
 
-export const DESIGNATION = `Full Stack Developer | NextJs / MERN Stack Developer | Software Engineer`;
+export const DESIGNATION = `Software Engineer | MERN Stack Developer | Next.js Developer`;
 
 export const DETAILS = {
   Lives_in: 'Islamabad, Pakistan',

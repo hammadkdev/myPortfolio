@@ -33,12 +33,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'hammadsoftdev@gmail.com',
+  EMAIL: 'hammadk.dev@gmail.com',
   PHONE: '+923189668328',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/hammadsoftdev',
-  LINKEDIN: 'https://www.linkedin.com/in/hammadsoftdev/',
+  GITHUB: 'https://github.com/hammadkdev',
+  LINKEDIN: 'https://www.linkedin.com/in/hammadkdev/',
   TWITTER: 'https://twitter.com/ihammadkp',
   FACEBOOK: 'https://www.facebook.com/',
 };

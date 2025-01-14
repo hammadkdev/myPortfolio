@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/hammadsoftdev/myPortfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/hammadsoftdev/myPortfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/hammadsoftdev/myPortfolio?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/hammadkdev/myPortfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/hammadkdev/myPortfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/hammadkdev/myPortfolio?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/ihamamdk?style=social)](https://twitter.com/intent/follow?screen_name=ihammadkp)
 
   <br />
@@ -37,13 +37,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/hammadsoftdev/myPortfolio.git
+sudo git clone https://github.com/hammadkdev/myPortfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/hammadsoftdev/myPortfolio.git
+git clone https://github.com/hammadkdev/myPortfolio.git
 ```
 
 ### Contact
